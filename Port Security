@@ -1,1 +1,6 @@
+// to enable err-diabled
+configuration terminal
+interface <interface ID>
+shutdown
+no shutdown
 
