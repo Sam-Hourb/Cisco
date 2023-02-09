@@ -1,0 +1,5 @@
+// to change native vlan trunk
+configuration terminal
+interface <interface ID>    // trunk interface
+switchport trunk native vlan <vlan ID>
+
