@@ -1,0 +1,6 @@
+// To earse startup config file 
+enable
+write erase  //or
+erase startup-config  //or
+earse nvra:
+
