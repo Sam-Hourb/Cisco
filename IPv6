@@ -1,5 +1,8 @@
 // to enable ipv6 on switch
 sdm prefer dual-ipv4-and-ipv6 default
 
+// to see sdm preference 
+show sdm prefer
+
 // to enable ipv6 on router
 ipv6 unicast-route
