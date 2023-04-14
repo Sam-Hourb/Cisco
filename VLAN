@@ -1,2 +1,2 @@
-To enable Routing on a layer 3 switch 
+To enable Routing on a layer 3 switch (Routing between VLANS on a switch)
 ip routing
