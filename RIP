@@ -1,0 +1,15 @@
+! To enable rip version 2 on a router
+enable
+configuration terminal
+router rip 
+version 2
+no auto-summary
+network <address of the directly connected network>
+network <address of the directly connected network>
+
+! If you want to disable routing advertisment on a specific interface
+enable
+configuration terminal
+router rip 
+version 2
+passive-interface <interface ID>
