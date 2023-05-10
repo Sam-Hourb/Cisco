@@ -1,0 +1,6 @@
+// Install Windows 10’s SSH Client
+//The SSH client is a part of Windows 10, but it’s an “optional feature” that isn’t installed by default.
+//To install it, head to Settings > Apps and click “Manage optional features” under Apps & features.
+//Click “Add a feature” at the top of the list of installed features.
+//You can now use the SSH client by running the ssh command.
+//This works in either a PowerShell window or a Command Prompt window, so use whichever you prefer.
