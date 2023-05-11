@@ -1,0 +1,5 @@
+// to suspend a telnet session in cisco device
+CTRL + SHIFT + 6 then x 
+
+// to go back to the suspended telnet session 
+click enter when prompt is blank ( no command)
