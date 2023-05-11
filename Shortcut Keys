@@ -3,3 +3,7 @@ CTRL + SHIFT + 6 then x
 
 // to go back to the suspended telnet session 
 click enter when prompt is blank ( no command)
+
+// to see suspended sessions
+show sessions  // in enable mode
+
